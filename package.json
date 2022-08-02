@@ -1,0 +1,28 @@
+{
+  "name": "nc_graphql_tweetql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaekyungAn/NC_GraphQL_tweetql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaekyungAn/NC_GraphQL_tweetql/issues"
+  },
+  "homepage": "https://github.com/TaekyungAn/NC_GraphQL_tweetql#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "type": "module",
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0"
+  }
+}
